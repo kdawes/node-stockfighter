@@ -1,4 +1,6 @@
 # node-stockfighter
 www.stockfighter.io api client in node.js
 
-Status : first cut
+https://starfighter.readme.io/
+
+# Status : first cut
