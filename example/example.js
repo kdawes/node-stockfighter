@@ -1,4 +1,3 @@
-var request = require('request')
 var api = require('..')
 var Api = new api({})
 var config = require('../config/config')
